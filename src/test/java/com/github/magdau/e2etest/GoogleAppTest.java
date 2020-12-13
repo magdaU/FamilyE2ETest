@@ -1,7 +1,9 @@
 package com.github.magdau.e2etest;
-import static com.jayway.restassured.RestAssured.given;
+
 
 import org.junit.Test;
+
+import static io.restassured.RestAssured.given;
 
 public class GoogleAppTest {
 
